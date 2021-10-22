@@ -1,0 +1,6 @@
+{
+	"ip":"realtime_from_ns.aternos.me",
+	"port": "49969",
+	"name": "NRBot",
+	"auto-night-skip":"false"
+}
